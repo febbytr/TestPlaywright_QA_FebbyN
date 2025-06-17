@@ -3,10 +3,9 @@ Project ini berisi script automation end-to-end testing menggunakan [Playwright]
 // Struktur folder : \\
 
 Test-QA-FebbyN/
-├── tests/ # Folder test case
-│ └── saucedemo.spec.js # Script pengujian utama
-├── playwright.config.js # Konfigurasi Playwright
-├── playwright-report/ # Hasil report HTML (terbuat otomatis)
-├── README.md # Dokumentasi ini
-└── .gitignore
+TestPlaywright_QA_FebbyN/ # Folder test case
+saucedemo.spec.js # Script pengujian utama
+playwright.config.js # Konfigurasi Playwright
+README.md # Dokumentasi ini
+.gitignore
 
